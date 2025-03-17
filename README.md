@@ -61,12 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amerMuhamed/amerMuhamed/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=amerMuhamed.amerMuhamed&left_color=darkolivegreen&right_color=grey"  />
 
 ###

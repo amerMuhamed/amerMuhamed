@@ -80,7 +80,7 @@ Currently working on the **mSales enterprise system**, developing backend featur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
 </div>
 
-`Git` `GitHub` `Docker` `Jenkins` `Postman` `IntelliJ IDEA` `Jira`
+`Git`   `GitHub` `Docker` `Jenkins` `Postman` `IntelliJ` `Jira`
 
 #### Frontend & Other
 

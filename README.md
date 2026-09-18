@@ -99,27 +99,46 @@ Currently working on the **mSales enterprise system**, developing backend featur
 
 ### 💼 Experience
 
-**Java Software Engineer — EME International**
+#### Java Software Engineer
+
+**EME International** · Remote
 `Oct 2025 – Present`
 
-Working on the **mSales enterprise system**, developing backend features, troubleshooting production issues, and contributing to integrations and system performance.
-
-**Java & Oracle Database Instructor — MICA EGYPT**
-`Jul 2025 – Oct 2025`
-
-Delivered hands-on training covering Java SE, JDBC, SQL, Oracle Database, relationships, and normalization.
-
-**Coding Instructor — 3C Online Coding School**
-`Jan 2025 – Nov 2025`
-
-Taught HTML, CSS, Python, Scratch, and App Inventor through project-based learning.
-
-**React Web Developer Trainee — DEPI**
-`Jun 2024 – Nov 2024`
-
-Built responsive React applications using Tailwind CSS and REST APIs.
+* Developing and maintaining backend features for the **mSales enterprise system**.
+* Troubleshooting production issues and improving system stability and performance.
+* Working with backend APIs, integrations, and GWT-based modules.
 
 ---
+
+#### Java & Oracle Database Instructor
+
+**MICA EGYPT** · On-site, Giza
+`Jul 2025 – Oct 2025`
+
+* Delivered hands-on training in **Java SE and Oracle Database**.
+* Covered **JDBC, SQL, relationships, and database normalization**.
+* Guided students in building Java–Oracle applications.
+
+---
+
+#### Coding Instructor
+
+**3C Online Coding School** · Remote
+`Jan 2025 – Nov 2025`
+
+* Taught **HTML, CSS, Python, Scratch, and App Inventor**.
+* Delivered interactive, project-based programming lessons.
+
+---
+
+#### React Web Developer Trainee
+
+**Digital Egypt Pioneers Initiative (DEPI)** · Remote
+`Jun 2024 – Nov 2024`
+
+* Built responsive React components using **Tailwind CSS and REST APIs**.
+* Developed and delivered multiple frontend projects.
+
 
 ### 📫 Let's Connect
 

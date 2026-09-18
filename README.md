@@ -16,6 +16,9 @@
   <a href="https://github.com/amerMuhamed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+    <a href="https://wa.me/201157789596">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
@@ -43,7 +46,7 @@ Currently working on the **mSales enterprise system**, developing backend featur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="45" alt="Hibernate" />
 </div>
 
-`Java` `Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security` `Hibernate` `REST APIs`
+`Java` `Spring Boot` `Hibernate`
 
 #### Databases
 
@@ -57,7 +60,7 @@ Currently working on the **mSales enterprise system**, developing backend featur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" />
 </div>
 
-`MySQL` `Oracle` `Microsoft SQL Server` `PostgreSQL`
+`MySQL` `Oracle` `PostgreSQL`  `Microsoft SQL Server`
 
 #### Tools
 
@@ -71,6 +74,10 @@ Currently working on the **mSales enterprise system**, developing backend featur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
 </div>
 
 `Git` `GitHub` `Docker` `Jenkins` `Postman` `IntelliJ IDEA` `Jira`
@@ -89,65 +96,6 @@ Currently working on the **mSales enterprise system**, developing backend featur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
----
-
-### 🚀 Featured Projects
-
-#### 🏋️ Fitness App
-
-**Spring Boot • Spring Security • Flutter • Firebase • AI**
-
-[GitHub Repository](https://github.com/amermuhamed/GraduationProject)
-
-AI-powered fitness application providing personalized workouts and meal plans.
-
-* Secure backend services with Spring Boot and Firebase Authentication.
-* Firestore-based data storage.
-* Flutter mobile client with real-time synchronization.
-
-**Graduation Project — Grade A+**
-
----
-
-#### 🛒 E-Commerce Platform
-
-**Spring Boot • JWT • MySQL • Spring Security • REST API**
-
-[GitHub Repository](https://github.com/amerMuhamed/Ecommerce-app)
-
-Backend system for an online store with:
-
-* Products, users, carts, and orders.
-* JWT authentication.
-* Role-based authorization.
-* RESTful APIs.
-
----
-
-#### 📋 Task Management System
-
-**Spring Boot • Thymeleaf • MySQL • Spring Security**
-
-[GitHub Repository](https://github.com/amerMuhamed/TaskManager)
-
-Secure task management platform featuring:
-
-* Complete CRUD operations.
-* Server-side validation.
-* Spring Security.
-* Role-based access control.
-
----
-
-#### 🛍️ Seira Shop
-
-**React • JavaScript • Tailwind CSS**
-
-[GitHub Repository](https://github.com/amerMuhamed/Seira-Shop)
-
-Modern e-commerce frontend with dynamic product listings, category filtering, routing, and API integration.
-
----
 
 ### 💼 Experience
 
